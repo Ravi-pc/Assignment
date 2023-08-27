@@ -1,0 +1,126 @@
+body{
+  background-color: black;
+  font-family: "Syne", specimen;
+}
+.topnav {
+  background-color: #555;
+  overflow: auto;
+  height: 42;
+  width: 1440px;
+
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 18px 24px;
+  text-decoration: none;
+  font-size: 11px;
+}
+.topnav img {
+  color: black;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create a right-aligned (split) link inside the navigation bar */
+.topnav a.split {
+  float: right;
+  color: black;
+}
+.nav{
+  overflow: auto;
+  height: 42;
+}
+.nav a{
+  float: left;
+  color: white;
+  text-align: center;
+  padding-left: 2%;
+  text-decoration: none;
+}
+.nav a.split{
+  float: right;
+  color: white;
+  padding: 8, 10;
+}
+.nav-bar a{
+  float: left;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px 80px;
+}
+.rectangle img{
+  position: absolute;
+
+  width: 993px;
+  height: 354.30108642578125px;
+  top: 344.61749267578125px;
+  left: 447px;
+  opacity: 0.5;
+  background-color: #F07E15;
+  
+ 
+}
+.boyImage img{
+  position: absolute;
+  width: 432px;
+  height: 654.9508666992188px;
+  top: 133.04913330078125px;
+  left: 899px;
+
+}
+.star img{
+  position: absolute;
+  width: 367px;
+  height: 371.5099792480469px;
+  top: 129px;
+  left: 1010px;
+  border: 1px;
+}
+.texts h1{
+font-family: Syne;
+font-size: 135px;
+font-weight: 800;
+line-height: 103px;
+}
+
+.fresh{
+  width: 689px;
+  height: 151px;
+  top: 280px;
+  left: 115px;
+  text-align: center;
+  border: 1px solid #FFFFFF;
+  background: linear-gradient(0deg, #FFFFFF, #FFFFFF),
+  linear-gradient(0deg, #FFFFFF, #FFFFFF); 
+}
+.year{
+  width: 710px;
+ height: 144px;
+ top: 396px;
+ left: 424px;
+ border: 2px;
+ background: #FFFFFF;
+ text-align: right;
+}
+.look
+{
+  width: 527px;
+  height: 103px;
+  top: 505px;
+  left: 187px;
+  border: 1px;
+  text-align: right;
+  background: linear-gradient(0deg, #FFFFFF, #FFFFFF),
+  linear-gradient(0deg, #FFFFFF, #FFFFFF);
+
+
+}
